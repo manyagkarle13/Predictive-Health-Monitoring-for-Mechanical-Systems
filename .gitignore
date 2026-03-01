@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML models
+*.pkl
+model/
+ml/model/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Data files
+data/
+*.txt
+
+# VS Code
+.vscode/
